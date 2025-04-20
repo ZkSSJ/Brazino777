@@ -6,11 +6,10 @@
 
 🧪 2. Casos de Prueba
 
-![image](https://github.com/user-attachments/assets/3902178e-d1c2-4fc3-89f4-ded75e1ca505)
-
-
-
 ![image](https://github.com/user-attachments/assets/15ee9d68-5de7-4d79-9af3-de1235f2ec93)
+
+
+![image](https://github.com/user-attachments/assets/3902178e-d1c2-4fc3-89f4-ded75e1ca505)
 
 
 🛡️ 3. Verificación de Atributos de Calidad
