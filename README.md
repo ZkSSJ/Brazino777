@@ -1,5 +1,7 @@
 Bienvenido al sistema ERP para Casinos Virtuales, una solución completa diseñada para gestionar de forma centralizada todas las áreas críticas de un casino online: operaciones, finanzas, jugadores, seguridad, juegos, inventario digital, promociones y más.
 
+https://alpine-bank-c3f.notion.site/ERP-26d43623ae7b802aae47d7c3cde1c647?pvs=73
+
 Este proyecto busca ofrecer una plataforma modular, escalable y segura para operadores de casinos que necesitan control total y datos en tiempo real.
 
 🚀 Características Principales
